@@ -1,2 +1,2 @@
 # teachingMachines
-Projects on Artificial Intelligence &amp; Machine learning
+Beginner projects on Artificial Intelligence &amp; Machine learning
